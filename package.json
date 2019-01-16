@@ -1,0 +1,23 @@
+{
+  "name": "Class1WebVR",
+  "version": "1.0.0",
+  "description": "Class1WebVR",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicoMonet/Class1WebVR.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicoMonet/Class1WebVR/issues"
+  },
+  "homepage": "https://github.com/NicoMonet/Class1WebVR#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
