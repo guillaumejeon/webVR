@@ -14,4 +14,7 @@ Class1WebVR
             npm init -yes
             npm install express --save //updates the curent plugin
             
+            npm install
+            node app.js
+            
             node app.js //startrs the server
